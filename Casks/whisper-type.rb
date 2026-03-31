@@ -1,6 +1,6 @@
 cask "whisper-type" do
-  version "VERSION"
-  sha256 "SHA256"
+  version "1.0.0"
+  sha256 "e40e8f2477ce5b2281d8e707370f2c867bee25428aeb5cbb4738abd30e91a2ba"
 
   url "https://github.com/marc1107/whisper-type/releases/download/v#{version}/WhisperType-v#{version}-arm64.dmg"
   name "WhisperType"
